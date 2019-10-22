@@ -8,4 +8,4 @@ To install this package simply set the correct registry and install the package 
 
 __Note: You have to set up the correct registry in order to be able to install the package:__
 
-    --registry=https://npm.pkg.github.com
+    --registry=https://npm.pkg.github.com/JeremiasEh
